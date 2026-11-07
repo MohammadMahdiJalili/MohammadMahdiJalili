@@ -1,15 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Mohammad%20Mahdi&fontColor=e6edf3&fontSize=50&fontAlignY=38&desc=Trader%20%C2%B7%20Programmer%20%C2%B7%20Entrepreneur&descColor=8b949e&descSize=18&descAlignY=60" width="100%" alt="header"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=Build+fast%2C+ship+faster;Angular+%2B+ASP.NET+Core;Futures+trader+%7C+Systems+thinker;Less+talk%2C+more+shipping" alt="typing"/>
+  <img src="https://raw.githubusercontent.com/MohammadMahdiJalili/MohammadMahdiJalili/main/header.svg" width="100%" alt="Mohammad Mahdi">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Tehran-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=googlemaps&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer_Engineering-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=gnometerminal&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00FF41&background=01040900&center=true&vCenter=true&width=560&lines=Build+fast%2C+ship+faster;Angular+%2B+ASP.NET+Core;Futures+trader+%7C+Systems+thinker;Less+talk%2C+more+shipping" alt="typing"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Tehran-010409?style=flat-square&labelColor=02110a&color=00ff41&logo=googlemaps&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Computer_Engineering-010409?style=flat-square&labelColor=02110a&color=00ff41&logo=gnometerminal&logoColor=00ff41">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,50:00ff41,100:010409&height=2" width="100%">
+</p>
 
 ```ts
 const mahdi = {
@@ -51,18 +55,25 @@ const mahdi = {
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJalili&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJalili&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJalili&show_icons=true&hide_border=false&border_color=0f5132&bg_color=010409&title_color=00ff41&icon_color=00ff41&text_color=7ee787">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJalili&layout=compact&hide_border=false&border_color=0f5132&bg_color=010409&title_color=00ff41&text_color=7ee787">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohammadMahdiJalili&theme=github-dark-blue&hide_border=true&background=0d1117">
+  <img src="https://streak-stats.demolab.com/?user=MohammadMahdiJalili&background=010409&border=0F5132&stroke=0F5132&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=7EE787&currStreakLabel=00FF41&sideLabels=4A7C59&dates=4A7C59">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahdiJalili&bg_color=010409&color=00ff41&line=00ff41&point=d7ffd9&area=true&area_color=00ff41&hide_border=true" width="100%">
 </p>
 
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:jalili.mohamadmahdi@gmail.com"><img src="https://img.shields.io/badge/jalili.mohamadmahdi@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="mailto:jalili.mohamadmahdi@gmail.com"><img src="https://img.shields.io/badge/jalili.mohamadmahdi@gmail.com-010409?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=02110a&color=00ff41"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,100:00ff41&height=100&section=footer" width="100%" alt="footer"/>
+</p><img width="900" height="220" alt="header" src="https://github.com/user-attachments/assets/465c9290-0c45-43cb-9ae9-6aa02c277955" />
+<img width="900" height="340" alt="architecture (1)" src="https://github.com/user-attachments/assets/f6a6ab04-2306-4721-9df4-b5c71164ed92" />
