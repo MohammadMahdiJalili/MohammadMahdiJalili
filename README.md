@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Mohammad%20Mahdi&fontColor=e6edf3&fontSize=50&fontAlignY=38&desc=Trader%20%C2%B7%20Programmer%20%C2%B7%20Entrepreneur&descColor=8b949e&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=%24+build+fast.+ship+faster.;%24+Angular+%2B+ASP.NET+Core;%24+futures+trader+%7C+systems+thinker;%24+less+talk.+more+shipping." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=Build+fast%2C+ship+faster;Angular+%2B+ASP.NET+Core;Futures+trader+%7C+Systems+thinker;Less+talk%2C+more+shipping" alt="typing"/>
 </p>
 
 <p align="center">
@@ -18,56 +18,34 @@ const mahdi = {
   roles: ["Programmer", "Futures Trader", "Entrepreneur"],
   stack: ["TypeScript", "Angular", "C#", "ASP.NET Core"],
   interests: ["Systems", "Trading", "Business", "Real Estate"],
-  motto: "Build first. Explain later.",
+  motto: "Build first, explain later",
 };
 ```
 
 ## 🧬 How I Build
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#161b22','primaryTextColor':'#e6edf3','primaryBorderColor':'#1f6feb','lineColor':'#58a6ff','secondaryColor':'#0d1117','tertiaryColor':'#0d1117','clusterBkg':'#0d1117','clusterBorder':'#30363d','fontFamily':'JetBrains Mono, monospace'}}}%%
-flowchart LR
-  U(["👤 User"])
-
-  subgraph FE["🖥 FRONTEND"]
-    direction TB
-    A["Angular + TypeScript"]
-    B["Components"]
-    C["Services / HttpClient"]
-    A --> B --> C
-  end
-
-  subgraph BE["⚙️ BACKEND"]
-    direction TB
-    D["ASP.NET Core Web API"]
-    E["Controllers"]
-    F["Business Logic"]
-    G["Entity Framework Core"]
-    D --> E --> F --> G
-  end
-
-  subgraph DB["🗄 DATA"]
-    direction TB
-    H[("SQL Server")]
-  end
-
-  U --> A
-  C -- "REST / JSON" --> D
-  G -- "SQL" --> H
-  H -. "rows" .-> G
-  D -. "response" .-> C
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadMahdiJalili/MohammadMahdiJalili/main/architecture.svg" width="100%" alt="Frontend to backend system flow">
+</p>
 
 ## ⚙️ Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031">
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=a179dc">
-  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4">
-  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3178C6,25:DD0031,50:512BD4,75:CC2927,100:F05032&height=4" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F05032,25:CC2927,50:512BD4,75:DD0031,100:3178C6&height=4" width="100%">
 </p>
 
 ## 📊 Stats
