@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadMahdiJalili/MohammadMahdiJalili/main/header.svg" width="100%" alt="Mohammad Mahdi">
+<img width="900" height="220" alt="header" src="https://github.com/user-attachments/assets/465c9290-0c45-43cb-9ae9-6aa02c277955" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ const mahdi = {
 ## 🧬 How I Build
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadMahdiJalili/MohammadMahdiJalili/main/architecture.svg" width="100%" alt="Frontend to backend system flow">
+  <img width="900" height="340" alt="architecture" src="https://github.com/user-attachments/assets/f6a6ab04-2306-4721-9df4-b5c71164ed92" />
 </p>
 
 ## ⚙️ Stack
@@ -75,5 +75,4 @@ const mahdi = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,100:00ff41&height=100&section=footer" width="100%" alt="footer"/>
-</p><img width="900" height="220" alt="header" src="https://github.com/user-attachments/assets/465c9290-0c45-43cb-9ae9-6aa02c277955" />
-<img width="900" height="340" alt="architecture (1)" src="https://github.com/user-attachments/assets/f6a6ab04-2306-4721-9df4-b5c71164ed92" />
+</p>
