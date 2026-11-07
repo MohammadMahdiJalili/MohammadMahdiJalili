@@ -1,45 +1,66 @@
-<h1 align="center">Hi, I'm Mohammad Mahdi 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Mohammad%20Mahdi&fontColor=e6edf3&fontSize=50&fontAlignY=38&desc=Trader%20%C2%B7%20Programmer%20%C2%B7%20Entrepreneur&descColor=8b949e&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <p align="center">
-  <b>Trader · Programmer · Entrepreneur</b><br>
-  Building fast, scalable things that actually run.
+  <a href="https://github.com/MohammadMahdiJalili">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=%24+build+fast.+ship+faster.;%24+Angular+%2B+ASP.NET+Core;%24+futures+trader+%7C+systems+thinker;%24+less+talk.+more+shipping." alt="typing"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Tehran-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer_Engineering-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=gnometerminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Open_to-Junior_Roles-0d1117?style=flat-square&labelColor=161b22&color=238636">
 </p>
 
 ---
 
-## 👤 Profile
+```ts
+const mahdi = {
+  location: "Tehran",
+  education: "Computer Engineering",
+  roles: ["Programmer", "Futures Trader", "Entrepreneur"],
+  stack: ["TypeScript", "Angular", "C#", "ASP.NET Core"],
+  interests: ["Systems", "Trading", "Business", "Real Estate"],
+  currently: ["Shipping admin panels", "Mastering Web APIs", "Systematizing trades"],
+  motto: "Build first. Explain later.",
+};
+```
 
-- 🎓 Computer Engineering, **Tehran**
-- 💻 Full-stack: Angular + ASP.NET Core
-- 📈 Futures trading
-- 🏢 Business & real estate
-- ⚡ Build first. Explain later.
-
-## 🛠 Stack
+## ⚙️ Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031">
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=a179dc">
+  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4">
+  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
 </p>
-
-## 🔭 Now
-
-- Shipping CRUD-heavy admin panels
-- Leveling up Angular, TypeScript & Web APIs
-- Systematizing my trading
 
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJalili&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJalili&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiJalili&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiJalili&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff">
 </p>
 
-## 📬 Reach me
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohammadMahdiJalili&theme=github-dark-blue&hide_border=true&background=0d1117">
+</p>
 
-📧 [jalili.mohamadmahdi@gmail.com](mailto:jalili.mohamadmahdi@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahdiJalili&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true" width="100%">
+</p>
 
-<p align="center"><i>Less talk. More shipping.</i></p>
+## 📬 Contact
+
+```bash
+$ mail -s "hello" jalili.mohamadmahdi@gmail.com
+```
+
+<p align="center">
+  <a href="mailto:jalili.mohamadmahdi@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer"/>
