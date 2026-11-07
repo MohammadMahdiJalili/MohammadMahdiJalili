@@ -1,15 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Mohammad%20Mahdi&fontColor=e6edf3&fontSize=50&fontAlignY=38&desc=Trader%20%C2%B7%20Programmer%20%C2%B7%20Entrepreneur&descColor=8b949e&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <p align="center">
-  <a href="https://github.com/MohammadMahdiJalili">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=%24+build+fast.+ship+faster.;%24+Angular+%2B+ASP.NET+Core;%24+futures+trader+%7C+systems+thinker;%24+less+talk.+more+shipping." alt="typing"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=520&lines=%24+build+fast.+ship+faster.;%24+Angular+%2B+ASP.NET+Core;%24+futures+trader+%7C+systems+thinker;%24+less+talk.+more+shipping." alt="typing"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based_in-Tehran-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=googlemaps&logoColor=white">
   <img src="https://img.shields.io/badge/Computer_Engineering-0d1117?style=flat-square&labelColor=161b22&color=1f6feb&logo=gnometerminal&logoColor=white">
-  <img src="https://img.shields.io/badge/Open_to-Junior_Roles-0d1117?style=flat-square&labelColor=161b22&color=238636">
 </p>
 
 ---
@@ -21,9 +18,44 @@ const mahdi = {
   roles: ["Programmer", "Futures Trader", "Entrepreneur"],
   stack: ["TypeScript", "Angular", "C#", "ASP.NET Core"],
   interests: ["Systems", "Trading", "Business", "Real Estate"],
-  currently: ["Shipping admin panels", "Mastering Web APIs", "Systematizing trades"],
   motto: "Build first. Explain later.",
 };
+```
+
+## 🧬 How I Build
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'background':'#0d1117','primaryColor':'#161b22','primaryTextColor':'#e6edf3','primaryBorderColor':'#1f6feb','lineColor':'#58a6ff','secondaryColor':'#0d1117','tertiaryColor':'#0d1117','clusterBkg':'#0d1117','clusterBorder':'#30363d','fontFamily':'JetBrains Mono, monospace'}}}%%
+flowchart LR
+  U(["👤 User"])
+
+  subgraph FE["🖥 FRONTEND"]
+    direction TB
+    A["Angular + TypeScript"]
+    B["Components"]
+    C["Services / HttpClient"]
+    A --> B --> C
+  end
+
+  subgraph BE["⚙️ BACKEND"]
+    direction TB
+    D["ASP.NET Core Web API"]
+    E["Controllers"]
+    F["Business Logic"]
+    G["Entity Framework Core"]
+    D --> E --> F --> G
+  end
+
+  subgraph DB["🗄 DATA"]
+    direction TB
+    H[("SQL Server")]
+  end
+
+  U --> A
+  C -- "REST / JSON" --> D
+  G -- "SQL" --> H
+  H -. "rows" .-> G
+  D -. "response" .-> C
 ```
 
 ## ⚙️ Stack
@@ -49,18 +81,10 @@ const mahdi = {
   <img src="https://streak-stats.demolab.com/?user=MohammadMahdiJalili&theme=github-dark-blue&hide_border=true&background=0d1117">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahdiJalili&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true" width="100%">
-</p>
-
 ## 📬 Contact
 
-```bash
-$ mail -s "hello" jalili.mohamadmahdi@gmail.com
-```
-
 <p align="center">
-  <a href="mailto:jalili.mohamadmahdi@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="mailto:jalili.mohamadmahdi@gmail.com"><img src="https://img.shields.io/badge/jalili.mohamadmahdi@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer"/>
